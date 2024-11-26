@@ -76,5 +76,5 @@ Key insights from the dashboard include:
 
 ## View the Tableau Visualization
 
-You can view the interactive Tableau dashboard here[https://public.tableau.com/app/profile/hariarunachalam.tableau/viz/BostonCrimeAnalytics/Dashboard2].
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/app/profile/hariarunachalam.tableau/viz/BostonCrimeAnalytics/Dashboard2).
 
