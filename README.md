@@ -12,9 +12,7 @@ The project utilizes official crime data from the Boston Police Department, cove
 - **Python**: For data cleaning, preprocessing, and analysis.
 
 ### Python Libraries:
-- **PDFPlumber**: For extracting data from PDF crime reports.
 - **Pandas**: For handling data manipulation and analysis.
-- **Matplotlib**: For creating preliminary visualizations.
 
 ### Tools:
 - **Excel**: For intermediate data storage and formatting.
@@ -34,7 +32,7 @@ cd Boston-Crime-Analytics-Dashboard
 
 ### Install Required Libraries:
 ```bash
-pip install pandas matplotlib pdfplumber
+pip install pandas
 ```
 
 ---
@@ -43,12 +41,6 @@ pip install pandas matplotlib pdfplumber
 
 The analysis is based on crime data extracted from PDF reports provided by the Boston Police Department. The data preparation process includes extracting raw data, cleaning inconsistencies, and organizing it into structured formats for further analysis.
 
-### Run the Python Script:
-Use the provided Python script for data extraction, cleaning, and analysis:
-```bash
-python CrimeDataProcessing.py
-```
-
 ---
 
 ## Visualization
@@ -56,7 +48,7 @@ python CrimeDataProcessing.py
 Once the data is prepared, it is imported into Tableau for creating an interactive dashboard. The dashboard includes features for filtering crime statistics by district, time, and offense type, enabling in-depth exploration of the data.
 
 ### View the Tableau Dashboard:
-Open the Tableau workbook file (`Boston_Crime_Dashboard.twbx`) in Tableau Desktop or Tableau Public to explore the interactive visualizations.
+Open the Tableau workbook file (`Boston_Crime_Analytics.twbx`) in Tableau Desktop or Tableau Public to explore the interactive visualizations.
 
 ---
 
