@@ -26,7 +26,7 @@ To set up this project locally, follow these steps:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/<Your-Username>/Boston-Crime-Analytics-Dashboard.git
+git clone https://github.com/Hari-Arunachalam/Boston-Crime-Analytics-Dashboard.git
 cd Boston-Crime-Analytics-Dashboard
 ```
 
